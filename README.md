@@ -1,5 +1,7 @@
 # Amazing-Incremental-Object-Detection
 ## Papers
+### 2022
+- Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation(CVPR 2022) [[paper]](https://arxiv.org/abs/2204.02136) [[code]](https://github.com/Hi-FT/ERD)
 ### 2021
 - Incremental Object Detection via Meta-Learning (TPAMI 2021) [[paper]](https://arxiv.org/abs/2003.08798) [[code]](https://github.com/JosephKJ/iOD)
 - Bridging Non Co-occurrence with Unlabeled In-the-wild Data for Incremental Object Detection (NeurIPS 2021) [[paper]](https://papers.nips.cc/paper/2021/file/ffc58105bf6f8a91aba0fa2d99e6f106-Paper.pdf)
